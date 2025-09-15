@@ -68,7 +68,7 @@ I combine **coding (Python, R, C#)** with **applied statistics** and **human-cen
 
 - [LinkedIn](https://www.linkedin.com/in/bhagyamoharana)  
 - [Google Scholar](https://scholar.google.com/)  
-- 📧 Email: your-email@example.com  
+- 📧 Email: b.moharana@research.ait.ie
 
 ---
 
