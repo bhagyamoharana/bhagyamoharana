@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Bhagya (Shoma)  
+# 👋 Hi, I'm Bhagya 
 
 🎓 **PhD in Quality of Experience (QoE) in Collaborative Virtual Reality**  
 💻 **Researcher & Developer** with expertise in **Data Science, Signal Processing, and VR Prototyping**  
